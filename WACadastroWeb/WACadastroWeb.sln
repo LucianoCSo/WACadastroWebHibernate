@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WACadastroWeb", "WACadastroWeb.csproj", "{C28CD12C-741A-4E8B-AA29-68CFA7478909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "..\Repositorio\Repositorio.csproj", "{4B7839FA-C57A-493E-A8AD-42D76B3E8795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C28CD12C-741A-4E8B-AA29-68CFA7478909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28CD12C-741A-4E8B-AA29-68CFA7478909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28CD12C-741A-4E8B-AA29-68CFA7478909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28CD12C-741A-4E8B-AA29-68CFA7478909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7839FA-C57A-493E-A8AD-42D76B3E8795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7839FA-C57A-493E-A8AD-42D76B3E8795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7839FA-C57A-493E-A8AD-42D76B3E8795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7839FA-C57A-493E-A8AD-42D76B3E8795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40EBDCF5-F1B7-460B-8C23-844706F76AC5}
+	EndGlobalSection
+EndGlobal
