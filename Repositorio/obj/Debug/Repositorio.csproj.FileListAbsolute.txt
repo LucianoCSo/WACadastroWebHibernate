@@ -1,0 +1,10 @@
+D:\Projetos\c#\ProjectNhibernate\Repositorio\bin\Debug\Repositorio.dll
+D:\Projetos\c#\ProjectNhibernate\Repositorio\bin\Debug\Repositorio.pdb
+D:\Projetos\c#\ProjectNhibernate\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+D:\Projetos\c#\ProjectNhibernate\Repositorio\obj\Debug\Repositorio.dll
+D:\Projetos\c#\ProjectNhibernate\Repositorio\obj\Debug\Repositorio.pdb
+D:\Projetos\c#\ProjectNhibernate\WACadastroWebHibernate\Repositorio\bin\Debug\Repositorio.dll
+D:\Projetos\c#\ProjectNhibernate\WACadastroWebHibernate\Repositorio\bin\Debug\Repositorio.pdb
+D:\Projetos\c#\ProjectNhibernate\WACadastroWebHibernate\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+D:\Projetos\c#\ProjectNhibernate\WACadastroWebHibernate\Repositorio\obj\Debug\Repositorio.dll
+D:\Projetos\c#\ProjectNhibernate\WACadastroWebHibernate\Repositorio\obj\Debug\Repositorio.pdb
